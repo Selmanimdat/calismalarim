@@ -1,3 +1,5 @@
+
+
 # calismalarim
 
-burada kendimi geliştirmek için uyguladığım çalışmalarımı paylaşıyorum
+burada  çalışmalarımı paylaşıyorum
